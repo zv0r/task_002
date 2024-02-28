@@ -1,6 +1,5 @@
 from subprocess import run, PIPE
 import os
-import os.path
 import pytest
 
 B_FILE_PATH = './bin/pascal_triangle'
